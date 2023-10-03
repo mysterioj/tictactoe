@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lo2u08DHvrPKEQJb16AMj5eZIMjGu/+htEh8PrBQDRWyJIyxQY/BIyWH9xpyMwA7C3N3aKE21enIndsFj/d4Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dwibble\\Desktop\\TicTacToe_Yahor_Ivanov\\TicTacToe\\TicTacToe.iOS\\TicTacToe.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dwibble\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dwibble\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Dwibble\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

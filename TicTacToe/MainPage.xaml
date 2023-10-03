@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToe.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Orange" Padding="24" CornerRadius="0">
+            <Label Text="Tic Tac Toe!" HorizontalTextAlignment="Center" TextColor="Black" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Text="Player 1" Grid.Row="0" Grid.Column="0" HorizontalOptions="Center" FontSize="Large"/>
+            <Label Text="Timer" Grid.Row="0" Grid.Column="1" HorizontalOptions="Center" FontSize="Large"/>
+            <Label x:Name ="TimerLabel" Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" FontSize="Large"/>
+            <Label Text="Player O" Grid.Row="0" Grid.Column="2" HorizontalOptions="Center" FontSize="Large"/>
+            <Label x:Name ="pl1" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center" FontSize="Large"/>
+            <Label x:Name="pl2" Text="" Grid.Row="1" Grid.Column="2" HorizontalOptions="Center" FontSize="Large"/>
+
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Clicked="Game" TextColor="White" x:Name="btn1" Text="" Grid.Row="0" Grid.Column="0"  FontSize="Title" HeightRequest="120"/>
+            <Button Clicked="Game" x:Name="btn2" TextColor="White" Text="" Grid.Row="1" Grid.Column="0"  FontSize="Title"/>
+            <Button Clicked="Game" x:Name="btn3" Text="" Grid.Row="2" TextColor="White" Grid.Column="0"  FontSize="Title"/>
+            <Button Clicked="Game" x:Name="btn4" Text="" Grid.Row="0" Grid.Column="1" TextColor="White" FontSize="Title"/>
+            <Button Clicked="Game" x:Name="btn5" Text="" Grid.Row="1" Grid.Column="1" TextColor="White" FontSize="Title"/>
+            <Button Clicked="Game" x:Name="btn6" Text="" Grid.Row="2" Grid.Column="1" TextColor="White" FontSize="Title"/>
+            <Button Clicked="Game" x:Name="btn7" Text="" Grid.Row="0" Grid.Column="2" TextColor="White" FontSize="Title"/>
+            <Button Clicked="Game" x:Name="btn8" Text="" Grid.Row="1" Grid.Column="2" TextColor="White" FontSize="Title"/>
+            <Button Clicked="Game" x:Name="btn9" Text="" Grid.Row="2" Grid.Column="2" TextColor="White" FontSize="Title"/>
+
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button Clicked="Button_Clicked" Margin="20" Padding="20" Text="Quit" TextColor="Black" BackgroundColor="Red" Grid.Row="1"/>
+            <Button Clicked="Button_Clicked_1" x:Name="button" Margin="20" Padding="20" Text="New Game" TextColor="Black" BackgroundColor="Orange" Grid.Row="0"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

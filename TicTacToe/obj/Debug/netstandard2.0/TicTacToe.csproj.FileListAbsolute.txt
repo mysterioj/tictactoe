@@ -1,0 +1,59 @@
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.AssemblyReference.cache
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\User\Desktop\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.AssemblyReference.cache
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\User\Desktop\CareerGuidanceAndroid\Computer Networks\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+C:\Users\FEN1X25\Desktop\PROJ2\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+C:\Users\Dwibble\Desktop\TicTacToe_Yahor_Ivanov\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
